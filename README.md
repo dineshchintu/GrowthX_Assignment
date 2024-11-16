@@ -93,7 +93,7 @@ The backend is built using **Node.js**, **Express.js**, **MongoDB**, and **JWT A
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/assignment-submission-portal.git
+   git clone https://github.com/dineshchintu/GrowthX_Assignment
 2. move to the GrowthX_Assignment folder
   - npm install
   - npm start

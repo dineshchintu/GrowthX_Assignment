@@ -1,4 +1,4 @@
-const userService = require("./../services/user.service.js")
+const userService = require("../services/auth.service.js")
 const register = async(req,res)=>{
     try{
         console.log(req.body);

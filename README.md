@@ -8,7 +8,8 @@ It supports two user types: **Users** and **Admins**.
 - **Admins** can view assignments, accept or reject them, and manage their responsibilities.
 
 The backend is built using **Node.js**, **Express.js**, **MongoDB**, and **JWT Authentication**.
-
+#Please find the Postman collection to test the application.
+https://drive.google.com/drive/folders/1ba33jNNxiSqRba8G19gm04iCWE6xKhUr?usp=sharing
 ---
 
 ## Features
